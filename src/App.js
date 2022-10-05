@@ -17,50 +17,44 @@ const App = () => {
       </ul>
       <h1>About me:</h1>
       <p>
-        Dedicated and Efficient Aspiring Fullstack Developer, Passionate About
-        Building and Improving Web Applications and UI & UX.
+        Dedicated and efficient aspiring Frontend Developer (ReactJS, NodeJS),
+        passionate about building and improving web applications and UI & UX.
       </p>
       <p>
-        I have been studying for both Front-end & Back-end Technologies for the
-        last year. Experienced with JavaScript(ES5-ES9), React, Redux, Node Js,
-        Express Js, Mongo DB and More…
+        Self-taught in both Frontend & Backend Technologies. Experienced with
+        HTML/CSS, JavaScript, React, Redux, Node.js (Express.js) and more...
       </p>
       <p>
-        I’m Highly Motivated, Team Player, Fast Learner, Seeking to Learn and
-        Improve My Skills as a Fullstack Developer by Learning from More
-        Seasoned Developers the Best Code Practices.
+        Also great experience in non-development area - Logistics management -
+        that gives me abilities to lead and manage; analytical, problem solving
+        and organizational skills; ability to work independently and handle
+        multiple projects.
+      </p>
+      <p>
+        I’m highly motivated, team player, fast learner, seeking to learn and
+        improve my skills as a Frontend Developer by
+        learning from more seasoned developers the best code practices.
       </p>
       <h1>Skills: </h1>
       <ul>
-        <li>
-          Frontend: Creating the Frontend Using SCSS, JavaScript (ES5-ES9),
-          React & Redux
-        </li>
-        <li>Backend: Creating the Backend Using NodeJs and ExpressJs</li>
-        <li>
-          Database: Storing Data Using MongoDB Database using Dynamic Queries
-        </li>
-        <li>
-          Security: Secure User Information Using Middleware Authentication and
-          JWT
-        </li>
+        <li> Frontend: HTML/CSS, CSS frameworks & libraries, JavaScript, React & Redux (Thunk), experience with TypeScript </li>
+        <li> Backend: NodeJS & Express, experience with NestJS </li>
+        <li> Database: MongoDB & Mongoose, PostgreSQL & Sequelize</li>
+        <li> Security: JWT, Bcrypt, Passport</li>
       </ul>
       <h1>Education: </h1>
       <ul>
-        <li>Donetsk National Technical University (Faculty of computer information technologies and automation)</li>
+        <li>
+          Donetsk National Technical University (Faculty of computer information
+          technologies and automation)
+        </li>
       </ul>
 
       <h1>Languages</h1>
       <ul>
-        <li>
-          Ukrainian: native speaker
-        </li>
-        <li>
-          Russian: native speaker
-        </li>
-        <li>
-          English: intermediate
-        </li>
+        <li>Ukrainian: native speaker</li>
+        <li>Russian: native speaker</li>
+        <li>English: intermediate</li>
       </ul>
     </div>
   );
